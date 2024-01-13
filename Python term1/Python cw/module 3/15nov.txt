@@ -1,0 +1,7 @@
+Script,Module Package and Library
+A script is a python file that's intended to be run directly
+this means that script will often cinatin 
+
+a module is athat's intended into scripts or other modules
+
+a package is a collection of related modules that work together  to provide certain functionality

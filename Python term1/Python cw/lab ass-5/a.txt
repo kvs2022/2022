@@ -1,0 +1,4 @@
+This is the content stored in a.txt that is copied to b.txt
+Name - Kaparotu Venkata Surya Tharani
+Application No - JUUG@@BTECH56651
+Course - AI & DE 
