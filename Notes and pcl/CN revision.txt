@@ -1,0 +1,44 @@
+Conclusion:
+
+Although there are different platforms available which helps us to get the information according to the individual needs, but most of the times the reviews don't meet the expectations of the user only on the basis of the information got from the internet. These issues are mostly faced by the people who came to new city to start their new phase of life, as the saying goes, 'Change is the only constant in life,' . Among this category of people students are the one who faces most difficulties, being a teenage moving to new city to pursue their studies and fullfill their dream of studying in a university. What if there is a platform where the users can get the reviews and the information at real time from the people who already visited the place. 
+
+By using this platform i.e the website the students will be able to get the information and offering resources tailore to individual needs, can help studenst feel more cnfident and prepared to embrace the opportunities and challenges tha come with their  new life. Furthermore it will help students to connect with their fellow peers and help them to ease their integration into the campus culture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arp and rarp
+fragmentaion and segmentation
+iee 802.3 and 802.11
+primary purpose of socket 
+synchronization 
+how can we use 
+circuit switching and virtual circuit swicthing
+datagram switching and virtual circuit switching
+effficiency of transmission protocol 
+pure alloha and selective alloha
+hidden station and exposure station
+piggybacking
+1kb is equal to how many bits
+traffc throttling
+

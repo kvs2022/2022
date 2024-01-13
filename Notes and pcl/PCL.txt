@@ -1,0 +1,69 @@
+Conclusion:
+Even though there are a variety of platforms that allow us to receive information based on our unique needs, most of the time evaluations don't live up to client expectations when they are just based on internet information. As the proverb goes, "Change is the only constant in life," most people who move to a new city to begin a new period of their lives experience these problems. Students are the group of people that experience the most challenges since they are youngsters who are relocating to a new place to pursue their education and realize their dream of attending a university.
+
+If there is a platform where users can get the review directly from their fellow peers who already been there will be so useful for the students to accomodate to the new environment. Students will be able to access information through this website, and resources that are tailored to their specific requirements will help them feel more confident and ready to take on the opportunities and challenges that come with their new life. Additionally, it will make it easier for them to fit into college life and connect with their fellow mates.
+
+With this project, we hope to create a platform that is user-friendly which will make life easier for students. 
+
+
+
+
+
+References :
+We cited the following sites to improve our understanding of the topic.
+
+1. https://datareportal.com/social-media-users#:~:text=Detailed%20analysis%20by%20the%20team,of%20the%20total%20global%20population
+2. https://www.techtarget.com/whatis/definition/social-networking
+3. https://www.indeed.com/career-advice/career-development/project-scope-example
+4. https://yourweb.ie/5-essential-objectives-of-a-website/#:~:text=They%20outline%20the%20objectives%20that,%2C%20user%20experience%2C%20and%20functionality
+5. https://www.grammarly.com/blog/how-to-write-a-report/
+
+
+Abstract :
+
+Being a youngster going to new city where u never been to and trying to adjust in the new environment is a bit hard. To make their life easy through this project we are aiming to create a website where students can get the basic information for their requirements. Using this platform they will be able to get the reviews and recommendations directly from the fellow peers which will make them feel a little confident and comfortable in going to the particular place.
+Using this platform the client can not only be able to know the reviews of the places but also be able to communicate with the people of their same likes  and will be able to explore their campus life.
+
+Through this project we are aiming to combine different services in one website to make it user friendly, further turning it into a 'multi- infromational website'.
+
+
+
+It can be challenging as a young person to go to a new city where you have never been and attempt to fit in. Through this project, we hope to make students' lives easier by developing a website where students can find the fundamental information they need for their needs. They will be able to obtain ratings and suggestions from their peers directly through this platform, which will increase their level of comfort and confidence while visiting a specific location.
+The client can also explore their campus life and engage with people who share their interests using this platform in addition to learning about the reviews of various locations.
+
+Through this project, we hope to consolidate several services into one user-friendly website, further transforming it into a "multi-informational website."
+
+
+
+
+
+
+
+
+'ulti - infomational website'
+
+
+
+
+
+
+
+
+
+
+
+arp and rarp
+fragmentaion and segmentation
+iee 802.3 and 802.11
+primary purpose of socket 
+synchronization 
+how can we use 
+circuit switching and virtual circuit swicthing
+datagram switching and virtual circuit switching
+effficiency of transmission protocol 
+pure alloha and selective alloha
+hidden station and exposure station
+piggybacking
+1kb is equal to how many bits
+traffc throttling
+

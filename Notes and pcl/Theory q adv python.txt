@@ -1,0 +1,38 @@
+The doctest module is a testing framework included in Python's standard library that allows developers to generate tests based on interactive Python sessions pasted into docstrings. It can be used to check the accuracy of a module's docstrings and perform regression testing. Developers can also use doctest to write tutorial documentation that includes executable code examples. Docstrings in Python can be used not only for code description but also for testing purposes. The doctest module finds patterns in the docstring that resemble interactive shell commands and executes them to compare the output with the expected outcome fetched from the docstring. Doctest is an easy-to-learn testing framework that helps keep code and documentation in sync. It can be run with or without output display, and it integrates with the Python unittest module for additional functionality.
+
+
+Pytest is a Python testing framework that allows users to write test code with simple and easy syntax. It can be used for simple unit tests to complex functional tests, and for testing APIs and GUI automation when used with tools like selenium webdriver. Pytest can run tests in parallel, detect tests automatically, skip tests, and can be used to write tests with no boilerplate. It also offers parametrization and plugins like pytest-BDD for Behaviour Driven Testing. Pytest is used by development teams, QA teams, independent testing groups, individuals practicing TDD, and open source projects like Mozilla and Dropbox. Pytest is a command-line tool that automatically finds tests, runs them, and reports results, and has a library of powerful features.
+
+
+
+flask is a frame work which is used to create web applications . it is used as it provides useful tools and fetaures 
+through which we can create web applications using single python file.
+
+we can analyze the web page using requests and beautiful soup libraries available.
+first we will import requests module,this module is used to get the html content from the web page which needs to analyzed.
+then using beautiful soup we can parse the html content available 
+using various methods provided by the beautiful soup we can exract the info we need from the web page.
+
+
+
+
+beautiful soup is a python library used for web scraping purposes to extract data from html and xml files .it is used to parse the contents tha is hypertext language present in the web page and navigating the parsed tree available in the html and xml files. To use beautiful soup first we need to pip install the module.various methods avaialble in the beautiful souo helps to get info present in the wbe page like find method is used to give the first element which matches the given css.
+
+doctest is an inbuilt python test framework which is installed in python's standard library by default. It seraches for the code fragements which resembles interactive python sessions and exceute them to check them if they work or not.it can also be used for testing, it looks for sequence of code prompts which resembles interactive python sessions and execute them and compare them to see if they get the same expected output as given in the 
+
+
+
+
+
+
+
+
+
+beautifulsoup is a python library used for web scraping purposes to extract data from html and xml files.it is used to parse the contents from the xml and html files i.e parsing though the hypertext language and navigating the parsed tree.With different methods available in beautiful soup we can extract the data from the html files like find()method is used to find the ffirst matched element from the css content present in the file.
+
+analyzing the code of a web page can be done byvarious methods one such method present in python is by using requests and beautifulsoup modules present in the python library. First we will import the requests module by installing it with the help of pip install.this module is used to extract the html content present in the file.Then we will import beautiful soup to parse through the html file.using various methods available in beautifulsoup we can extract info from the web page.
+
+Pytest is a testing framework  which provides users to write simple and easy way to write the python code for testing. Pytest can run tests from simple unittests to complex functional tests. It is also used to run test apis.Pytest is command-line test which automatically finds test you have written and run the tests and reports the results.Pytest is a open-source.tests are run parallel that is can execute multiple test cases simultaneously.It is easy to start as it has a easy syntax.Pytest is a more comprehensive and flexible third-party testing framework desgined for more complex python projects.
+
+
+Doctest is an inbuilt python testing framework which is installed in hte python stnadrad python library by default.It searches for the code which resembles interactive python sessions and excute them to see if they work or not.It is used to run the code written in the docstrings,it allows you to write the code directly in the docstirng hence able to maintain both documentation and tests in sync. Doctest searches for the code which resembles python interactive sessions and compare the output with the expected outcome written in the input docstring.Therefore doctest is a simple testing framework which is designed for testing examples in the docstrings.
