@@ -1,0 +1,12 @@
+s1=set([1,2,3,4,5,6])
+s2=set([5,6,7,8,9,10])
+s3=set([5,7,8,11])
+s4=set([9,5,2,13,15])
+a1=s1.intersection(s2)
+print(a1)
+a2=s1&s2
+print(a2)
+a3=s1&s2&s3&s4
+print(a3)
+a4=s1.intersection(s2,s3,s4)
+print(a4)
