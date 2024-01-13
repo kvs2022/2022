@@ -1,0 +1,9 @@
+2. Write and draw about the functionality of CPU.
+
+3. 	a. Draw the hardware implementation arithmetic addition and subtraction operation.Explain the steps involved in the circuit design.
+	b.Evaluate the importance of error detection codes in data representation and transmission. Discuss parity biased error detection code and explain its strength and limitations.
+
+4.	a. Discuss the working principles of floating-point arithmetic operations.
+	b. Discuss any five addressing modes in detail with neat diagrams.
+
+5.	

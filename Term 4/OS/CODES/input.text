@@ -1,0 +1,3 @@
+ETL stands for Extraction, Transformation, and loading. 
+ETL is a process which is used to Extract data, Transform the data and loading of the data to the final source. 
+ETL follows a process of loading the data from the source system to the Data Warehouse.

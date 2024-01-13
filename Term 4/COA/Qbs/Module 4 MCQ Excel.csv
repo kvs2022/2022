@@ -1,0 +1,11 @@
+question,ans1,ans2,ans3,ans4,answer,explanation,difficulty,subject_name,topic_name,sub_topic_name,tags
+___ Model is more suitable for special purpose computations., SIMD ,MISD, MIMD ,Both a and b,4,special purpose computations.,easy,COA,I/O Function,Pheriperal device,
+Hazards in pipelines can make it necessary to ___ the pipeline, Stall , Stake ,Storm , None of the above,1,Hazards in pipelines ,medium,COA,Pipeline,IO Mapping,
+"When a machine is pipelined, the ___ execution of instructions requires pipelining of the functional unit.", Overloaded ,Over rode ,Overlapped ,Overcrowded,3,Instructions requires pipelining of the functional unit.,Medium,COA,Pipeline,Arithmetic,
+Interprocessor communication is done through ___ among nodes-,Shared variable ,Shared memory, Message passing  ,None of the above,3,Interprocessor communication,easy,COA,Instruction Pipeline,Memory Sharing,
+There are ___ families of pipelined vector processors,1,2,3,4,2,Pipelined vector processors family,Medium,COA,Pipeline Types,Pipeline family,
+To overcome the lag in the operating speeds of the I/O device and the processor we use ,Buffer spaces , Status flags , Interrupt signals ,Exceptions,2,To overcome the lag in the operating speed,easy,COA,I/O Procesor,Elements,
+The method of synchronising the processor with the I/O device in which the device sends a signal when it is ready is?,Exceptions,Signal handling ,Interrupts ,DMA,3,Synchronising the processor with the I/O device,Medium,COA,Direct Memory Address,Interrupt,
+The DMA differs from the interrupt mode by __________,The involvement of the processor for the operation,The method of accessing the I/O devices,The amount of data transfer possible,None of the mentioned,4,Involvement of the processor for the operation,easy,COA,Direct Memory Address,Priority Interrupt,
+"In DMA transfers, the required signals and addresses are given by the ",Processor  ,b) Device drivers ,c) DMA controllers ,d) The program itself,3,Signals and addresses,hard,COA,Data Transfer,Parity Check,
+MRDC stands for,Memory Read Enable,Memory Ready Command,Memory Re-direct Command,None of the mentioned,2,Explanation,easy,COA,Memory Properties,Read and Write,

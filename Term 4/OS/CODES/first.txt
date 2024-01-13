@@ -1,0 +1,6 @@
+Process is a program in Execution.
+Process life cycle include two cycles: CPU Cycles and I/o Cycles.
+Process to be executed with CPU waits in ready queue.
+In order to improve CPU utilization, various schemes are rendered, in the order in 
+which process are allotted to the CPU.
+FCFS algorithm works on the principle of First Come First Serve.

@@ -1,0 +1,160 @@
+Draw pictorial representation of Multiprocessor and multicomputer computing system with short a note.
+
+What is the purpose of minimizing a logic expression?
+
+What is the difference between a NAND gate and a NOR gate?
+
+Differentiate Computer organization and computer architecture
+
+Define multiplexer and demultiplexer?
+
+Define Boolean Logic? With examples explain the following
+Boolean Logic operations with truth table and algebraic
+expressions?
+i) AND, NAND
+ii) OR, NOR
+iii) Invert, XOR, XNOR
+
+
+A) Define the concept of a bus in computer systems.
+B) Describe the different types of buses used in a system and
+their functions.
+C) Provide an example of a system that uses each type of bus.
+
+
+A) Describe the process of synthesizing logic functions using NAND and NOR gates in digital logic circuits.
+B) Provide an example of a circuit that uses a combination of
+these gates.
+
+
+A) Describe the process of minimizing a logic expression in digital logic circuits.
+B) Explain how the Karnaugh map method can be used to
+simplify logic expressions.
+C) Simplify the following Boolean expression using K-Map:
+F(A,B,C)=π(0,3,6,7)
+
+
+A) Describe the process of minimizing a logic expression in digital logic circuits using K-Map
+B) Simplify the following Boolean expression using K-Map:
+F(R,S,P,Q) = ∑(0,2,5,7,8,10,13,15)
+
+
+
+				10 MARKS
+Describe the role of functional units in a computer system and
+provide examples of different types of functional units.
+
+
+Describe the basic operational concepts of a computer system, including memory, input/output, and processing.
+
+Explain the difference between a multiprocessor and a multi-computer system.
+
+Describe the role of encoders, decoders, and multiplexers in digital
+circuits, and provide an example of a scenario where each would
+be used.
+
+
+Define logic gate?. State the names and symbols of the three basic
+logic gates and explain their respective functions. Provide an
+example of a simple logic circuit that uses each of the three basic
+logic gates.
+
+
+Explain the concept of a bus in a computer system and describe its basic operation
+
+Define a programmable logic array (PLA) and explain how it can be
+used to implement digital logic circuits. Provide an example of a
+circuit that uses a PLA.
+
+Describe the process of minimizing a logic expression in digital logic circuits using K-Map
+
+Discuss the different types of flip-flops, including D,T,JK, and SR flip-flops.
+
+What are the performance metrics used to measure the efficiency
+of a computer system? Describe each metric and how it is
+calculated
+
+------------------------------------------------------------------------------------------------------------------
+
+
+ANSWERS
+
+
+
+In computer architecture, there are typically three types of buses that are used to transfer data between the various components of a computer system: the address bus, the data bus, and the control bus. Here are some examples of systems that use each type of bus:
+
+1. Address Bus: An address bus is a bus that is used to specify the memory location of data that is being transferred between the components of a computer system. One example of a system that uses an address bus is a microprocessor-based system. In a microprocessor-based system, the address bus is used by the microprocessor to specify the memory location of instructions and data that are being read or written to memory.
+
+2. Data Bus: A data bus is a bus that is used to transfer data between the various components of a computer system. One example of a system that uses a data bus is a graphics card. In a graphics card, the data bus is used to transfer image data between the graphics processing unit (GPU) and the memory on the graphics card.
+
+3. Control Bus: A control bus is a bus that is used to transmit control signals between the various components of a computer system. One example of a system that uses a control bus is a hard disk drive. In a hard disk drive, the control bus is used to transmit control signals between the disk controller and the various components of the hard disk, such as the read/write head, the spindle motor, and the disk platters.
+
+
+
+Difference between multiprocessor and Multicomputer: 
+
+1.     Multiprocessor is a system with two or more central processing units (CPUs) that is capable of performing multiple tasks where as a multicomputer is a system with multiple processors that are attached via an interconnection network to perform a computation task.
+2.     A multiprocessor system is a single computer that operates with multiple CPUs where as a multicomputer system is a cluster of computers that operate as a singular computer.
+3.     Construction of multicomputer is easier and cost effective than a multiprocessor.
+4.     In multiprocessor system, program tends to be easier where as in multicomputer system, program tends to be more difficult.
+5.    Multiprocessor supports parallel computing, Multicomputer supports distributed computing.
+
+
+
+
+The process of simplifying the algebraic expression to a boolean function is called minimization. Minimization is important since it reduces the cost and complexity of
+the associated circuit. Here are the steps involved in the process of minimizing a logic expression:
+
+1. Write the truth table for the logic function:
+The truth table shows the output of the function for all possible input combinations.
+2. Write the Boolean expression for the function:
+The Boolean expression is derived by using Boolean algebra to simplify the logic function.
+3. Apply the laws of Boolean algebra to simplify the expression:
+4. Use K-map to get the min terms
+5. Write the minimised expression.
+6. Implement the minimised expression.
+
+
+The role of functional units in a computer system is to carry out the tasks required by the instructions and produce the output required by the program.
+
+Here are some examples of different types of functional units and their roles:
+
+Arithmetic Logic Unit (ALU):
+The ALU is responsible for performing arithmetic and logical operations on data. It performs operations such as addition, subtraction, multiplication, division, AND, OR, and NOT. The ALU receives data from the memory and the registers, performs the requested operation, and stores the result in the destination register.
+
+Control Unit (CU):
+The control unit is responsible for controlling the flow of data between the different functional units of the computer. It fetches instructions from the memory, decodes them, and generates the necessary control signals to execute them. It also manages the timing of the operations and ensures that they are executed in the correct sequence.
+
+Memory Unit:
+The memory unit is responsible for storing and retrieving data and instructions. It is divided into two main types: primary memory and secondary memory. Primary memory, also known as random access memory (RAM), is used to store data and instructions that are currently being used by the CPU. Secondary memory, such as hard drives and flash drives, is used to store data and instructions that are not currently being used.
+
+Input/Output Unit (I/O):
+The input/output unit is responsible for managing the input and output operations of the computer system. It communicates with the external devices, such as keyboard, mouse, printer, and monitor, to send and receive data and instructions.
+
+Floating Point Unit (FPU):
+The floating-point unit is responsible for performing arithmetic operations on floating-point numbers, which are numbers with decimal points. The FPU is designed to handle complex arithmetic operations, such as trigonometric functions and exponential functions.
+
+Overall, functional units are essential components of a computer system. They work together to execute instructions, perform arithmetic and logical operations, store and retrieve data, manage input and output operations, and perform complex arithmetic operations on floating-point numbers.
+
+
+
+Encoders, decoders, and multiplexers are commonly used in digital circuits to perform specific functions. Here is a brief overview of the role of each of these components and examples of scenarios where they would be used:
+
+1. Encoders:
+Encoders are digital circuits that convert a set of input signals into a coded output signal. They are used when there is a need to reduce the number of input lines to a circuit. Encoders are used in various applications, such as digital communications, computer memory systems, and data acquisition systems. For example, in a computer keyboard, an encoder is used to convert the physical keystrokes into digital signals that the computer can process.
+
+2. Decoders:
+Decoders are digital circuits that convert coded input signals into a set of output signals. They are used when there is a need to select one of several output options based on the input code. Decoders are used in various applications, such as memory systems, address decoding, and control systems. For example, in a memory system, a decoder is used to select a specific memory location based on the address input.
+
+3. Multiplexers:
+Multiplexers, also known as MUXes, are digital circuits that select one of several input signals and pass it through to the output based on a selection signal. They are used when there is a need to route multiple input signals to a single output line. Multiplexers are used in various applications, such as digital communications, control systems, and memory systems. For example, in a digital audio system, a multiplexer is used to select one of several audio inputs and pass it through to the output.
+
+Here are some specific examples of scenarios where each of these components would be used:
+
+- Encoders: In a security system, an encoder could be used to convert the unique code from a keycard reader into a digital signal that is processed by the computer controlling the system.
+
+- Decoders: In a digital clock, a decoder could be used to select the appropriate segments of a seven-segment display to display the current time.
+
+- Multiplexers: In a computer memory system, a multiplexer could be used to route data from different memory modules to the CPU based on the memory address being accessed.
+
+
